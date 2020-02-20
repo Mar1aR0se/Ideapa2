@@ -324,7 +324,7 @@ ul.submenu li a:hover {
 }
 
 .advantage-grid-info1.second {
-    background: url(../images/g2.jpg) center no-repeat;
+    background: url(../upload/handful-of-cash.jpg) center no-repeat;
 }
 
 .advantage-grid-info1.third {
@@ -536,13 +536,13 @@ ul.team_social_info li {
 }
 
 ul.team_social_info li a {
-    color: #717580;
+    color: #fff;
     margin-right: 10px;
     font-size: 13.5px;
     margin-right: 2px;
     width: 35px;
     height: 35px;
-    background: #121215;
+    background: #117cc4;
     padding: 9px 20px;
     text-align: center;
     line-height: 35px;
@@ -700,7 +700,7 @@ p.main_p {
 }
 
 .contact-right p span {
-    color: #dc3545;
+    color: #1100ff;
 }
 
 .contact-right p {
@@ -931,7 +931,6 @@ section#gallery {
 .gal-img:hover.gal-img img {
     box-shadow: 0 20px 40px -10px rgba(0, 0, 0, .3);
 }
-
 /*-- popup --*/
 
 .pop-overlay {
