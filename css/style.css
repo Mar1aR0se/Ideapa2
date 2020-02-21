@@ -221,7 +221,7 @@ ul.submenu li a:hover {
 /*-- //header --*/
 
 .inner-banner {
-    background: url(../images/banner.jpg) no-repeat center;
+    background: url(../images/banner2.jpg) no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -234,7 +234,7 @@ ul.submenu li a:hover {
 /*-- banner --*/
 
 .main-banner {
-    background: url(../images/banner.jpg) center no-repeat;
+    background: url(../images/banner2.jpg) center no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -324,11 +324,27 @@ ul.submenu li a:hover {
 }
 
 .advantage-grid-info1.second {
+    padding: 0;
     background: url(../upload/handful-of-cash.jpg) center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    background-size: cover;
+    position: relative;
+    min-height: 500px;
 }
 
 .advantage-grid-info1.third {
+    padding: 0;
     background: url(../images/g4.jpg) center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    background-size: cover;
+    position: relative;
+    min-height: 500px;
 }
 
 .advantage_left h4 {
@@ -770,7 +786,7 @@ ol.breadcrumb li a {
 /*--/footer--*/
 
 .foot-top-w3layouts {
-    background: url(../images/banner.jpg) no-repeat;
+    background: url(../images/banner2.jpg) no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
